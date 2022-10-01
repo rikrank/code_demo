@@ -1,0 +1,12 @@
+{
+  "name": "swiper_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "browser-sync start --server --files *.html"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
