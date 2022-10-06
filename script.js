@@ -1,7 +1,7 @@
 
 let featureSlide;
 let SPEED = 2500;
-const SLIDE_CHANGE_DURATION = 300;
+const SLIDE_CHANGE_DURATION = 1500;
 
 const initAnimationDuration = () => {
     const inidicatorsIn = document.querySelectorAll(".swiper-progress-in");
