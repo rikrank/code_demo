@@ -1,0 +1,12 @@
+{
+  "name": "grid-container",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.html' '*.css' '*.js'"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
