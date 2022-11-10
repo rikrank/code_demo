@@ -1,8 +1,8 @@
 # スニペットサンプル集
 
 ## デモ
-(CSS Grid で作るコンテンツラッパー)[https://rikrank.github.io/code_demo/grid_container]
-(Swiper サンプル)[https://rikrank.github.io/code_demo/swiper]
+* (CSS Grid で作るコンテンツラッパー)[https://rikrank.github.io/code_demo/grid_container]
+* (Swiper サンプル)[https://rikrank.github.io/code_demo/swiper]
 
 ## 導入
 各ディレクトリに入って、下記コマンドを実行。
